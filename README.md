@@ -1,16 +1,16 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Sahbi Romdhani</h1>
+<h3 align="center">Backend-Focused Software Engineer | NestJS Enthusiast | Microservices Architect</h3>
 
-<!--
-**SahbiRomdhani/SahbiRomdhani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+💡 **About Me**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```ts
+const Sahbi = {
+  role: 'Software Engineer',
+  focus: 'Backend Development',
+  techStack: ['NestJS', 'Node.js', 'PostgreSQL', 'Docker', 'RabbitMQ'],
+  interests: ['Microservices', 'Event-Driven Architecture', 'CQRS', 'Clean Code'],
+  currentlyLearning: ['Kubernetes', 'Advanced DDD', 'AWS Infrastructure'],
+  location: 'Tunisia 🌍',
+};
