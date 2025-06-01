@@ -5,9 +5,11 @@ const Sahbi = {
   role: 'Software Engineer',
   focus: 'Backend Development & System Architecture',
   techStack: ['NestJS', 'Node.js', 'PostgreSQL', 'Docker', 'RabbitMQ'],
-  interests: ['Microservices', 'Event-Driven Architecture', 'CQRS', 'Clean Code'],
+  interests: ['Microservices', 'Event-Driven Architecture', 'CQRS', 'Clean Code', 'AI Integration'],
   currentlyLearning: ['Kubernetes', 'Advanced DDD', 'AWS Infrastructure'],
   location: 'Tunisia 🇹🇳',
+  aiTools: ['Windsurf', 'Cursor'],
+  aiApproach: 'Leveraging AI-powered code editors for enhanced development productivity',
   motto: 'Building scalable systems, one microservice at a time'
 };
 ```
@@ -15,6 +17,8 @@ const Sahbi = {
 ## 🚀 About Me
 
 I'm a passionate Software Engineer from Tunisia, specializing in **backend development** and **system architecture**. I love crafting scalable, maintainable solutions using modern technologies and architectural patterns. My expertise lies in building robust microservices and implementing clean code principles.
+
+I professionally leverage **AI tools** including **Windsurf** and **Cursor** as my primary code editors to enhance development productivity, code quality, and problem-solving efficiency while maintaining human oversight and architectural decision-making.
 
 ## 🛠️ Tech Stack
 
@@ -57,7 +61,6 @@ I'm a passionate Software Engineer from Tunisia, specializing in **backend devel
 |------------|-----------------|----------------|----------|
 | [**nestjs-microservices**](https://github.com/SahbiRomdhani/nestjs-microservices) | Production-ready microservice architecture with event-driven communication | `NestJS` `RabbitMQ` `PostgreSQL` `Docker` | ![Stars](https://img.shields.io/github/stars/SahbiRomdhani/nestjs-microservices?style=flat-square&color=yellow) |
 | [**nestjs-solid-principles**](https://github.com/SahbiRomdhani/nestjs-solid-principles) | Clean architecture implementation following SOLID principles | `NestJS` `TypeScript` `Clean Architecture` | ![Stars](https://img.shields.io/github/stars/SahbiRomdhani/nestjs-solid-principles?style=flat-square&color=yellow) |
-| [**Backoffice**](https://github.com/SahbiRomdhani/Backoffice) | Feature-rich admin dashboard for backend operations | `Express.js` `MongoDB` `JavaScript` | ![Stars](https://img.shields.io/github/stars/SahbiRomdhani/Backoffice?style=flat-square&color=yellow) |
 
 ## 🌱 Currently Learning
 
@@ -65,16 +68,18 @@ I'm a passionate Software Engineer from Tunisia, specializing in **backend devel
 Focus Areas:
   - Container Orchestration: Kubernetes, Helm Charts
   - Advanced Architecture: Domain-Driven Design, Event Sourcing
-  - Cloud Infrastructure: AWS Services, Terraform
+  - Cloud Infrastructure: AWS Services
   - Performance: System Optimization, Monitoring
+  - AI-Powered Development: Windsurf & Cursor integration
 ```
 
 ## 💡 Areas of Expertise
 
 - **🏗️ System Architecture**: Microservices, Event-Driven Architecture, CQRS
-- **⚡ Performance**: Database optimization, Caching strategies, Load balancing  
-- **🔧 DevOps**: Containerization, CI/CD pipelines, Infrastructure as Code
+- **⚡ Performance**: Database optimization, Caching strategies  
+- **🔧 Infrastructure**: Containerization, CI/CD pipelines, Infrastructure as Code
 - **🎯 Best Practices**: Clean Code, SOLID principles, Testing strategies
+- **🤖 AI-Enhanced Development**: Professional use of Windsurf & Cursor for enhanced productivity
 
 ## 📈 Activity Graph
 
@@ -83,13 +88,15 @@ Focus Areas:
 ## 🤝 Let's Connect
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/sahbi-romdhani" target="_blank">
+  <a href="https://www.linkedin.com/in/sahbi-romdhani/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:sahbi.rmdhani@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-
+  <a href="https://v0-sahbi-romdhani.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
 </div>
 
 ---
