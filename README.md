@@ -60,10 +60,9 @@ I professionally leverage **AI tools** including **Windsurf** and **Cursor** as 
 
 ```yaml
 Focus Areas:
-  - Container Orchestration: Kubernetes, Helm Charts
+  - Container Orchestration: Kubernetes
   - Advanced Architecture: Domain-Driven Design, Event Sourcing
   - Cloud Infrastructure: AWS Services
-  - Performance: System Optimization, Monitoring
   - AI-Powered Development: Windsurf & Cursor integration
 ```
 
