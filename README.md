@@ -55,12 +55,6 @@ I professionally leverage **AI tools** including **Windsurf** and **Cursor** as 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SahbiRomdhani&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=79C0FF" height="150"/>
 </div>
 
-## 🎯 Featured Projects
-
-| 🏆 Project | 📖 Description | 🔧 Tech Stack | ⭐ Stars |
-|------------|-----------------|----------------|----------|
-| [**nestjs-microservices**](https://github.com/SahbiRomdhani/nestjs-microservices) | Production-ready microservice architecture with event-driven communication | `NestJS` `RabbitMQ` `PostgreSQL` `Docker` | ![Stars](https://img.shields.io/github/stars/SahbiRomdhani/nestjs-microservices?style=flat-square&color=yellow) |
-| [**nestjs-solid-principles**](https://github.com/SahbiRomdhani/nestjs-solid-principles) | Clean architecture implementation following SOLID principles | `NestJS` `TypeScript` `Clean Architecture` | ![Stars](https://img.shields.io/github/stars/SahbiRomdhani/nestjs-solid-principles?style=flat-square&color=yellow) |
 
 ## 🌱 Currently Learning
 
@@ -72,14 +66,6 @@ Focus Areas:
   - Performance: System Optimization, Monitoring
   - AI-Powered Development: Windsurf & Cursor integration
 ```
-
-## 💡 Areas of Expertise
-
-- **🏗️ System Architecture**: Microservices, Event-Driven Architecture, CQRS
-- **⚡ Performance**: Database optimization, Caching strategies  
-- **🔧 Infrastructure**: Containerization, CI/CD pipelines, Infrastructure as Code
-- **🎯 Best Practices**: Clean Code, SOLID principles, Testing strategies
-- **🤖 AI-Enhanced Development**: Professional use of Windsurf & Cursor for enhanced productivity
 
 ## 📈 Activity Graph
 
